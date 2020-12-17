@@ -1,0 +1,13 @@
+,Run #,K,Implementation,Time
+0,1,1,Hashtable,0.8018
+1,1,1,dict,0.4079
+2,1,2,Hashtable,7.32
+3,1,2,dict,0.4397
+4,1,3,Hashtable,67.3212
+5,1,3,dict,0.4491
+6,2,1,Hashtable,0.818
+7,2,1,dict,0.4114
+8,2,2,Hashtable,7.269
+9,2,2,dict,0.4175
+10,2,3,Hashtable,67.264
+11,2,3,dict,0.4343
